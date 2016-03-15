@@ -1,11 +1,8 @@
 #Big Goal and Class Culture (1 hr 30 min)
 
-####Opening Discussion/Hook
+**GOAL:** To have the students define their classroom culture and interact with each other.
 
-####IWBAT (By the end of this lesson I Will Be Able To)...
-To have the students define their classroom culture and interact with each other.
 
-####Connection to Long Term Goal
 ##Intro (5-10 min)
 Start by showing the previous cohort's culture and big goal markdown file. (use the ATL WDI 1 class markdown for reference)
 
@@ -40,12 +37,13 @@ Each WDI gets to choose what they want their class culture to be like. Here are 
 - what do you want to do if someone misses classes?
 
 
-- Break into groups and discuss what you want your training to be like (10-15 mins)
-- Discuss your answers (15mins)
+> Break into groups and discuss what you want your training to be like (10-15 mins)
 
-####Previous rules for reference:
+> Discuss your answers (15mins)
 
-* Class Rules:
+###Previous rules for reference:
+
+####Class Rules:
 
   1. Respect fellow classmates and instructional team.
   2. One person talks at a time during teaching time.
@@ -56,16 +54,14 @@ Each WDI gets to choose what they want their class culture to be like. Here are 
   7. Instructional team will be patient and courteous with students.
   8. We should encourage a collaborative environment within the classroom.
 
-* Expectations:
+####Expectations:
 
   1. You will need to work after hours to keep up with the course work.
   2. Take advantage of the instructional team, we are here to support you.
-    a. obviously in class time
-    b. but also via slack if we’re online
   3. Help each other, you will be experiencing the same problems.
   4. Make your mistakes in the classroom, this will help you to develop.
   5. Repetition is the key, especially in the first three weeks.
-  6. Do class exercises, labs, homework. Additional apps on top of this will be an advantage.
+  6. Do class exercises, labs, homework. Additional apps on top of this will be an advantage (extra challenges, hack-a-thons, etc).
   7. Be vocal about things you do not understand. Chances are you will not be the only person in the same position, we will reiterate until everyone understands.
   8. Try and blog or keep a diary of your progress. This will help you understand your own progress.
 
@@ -75,14 +71,13 @@ Each WDI gets to choose what they want their class culture to be like. Here are 
 
 Write the following topics on the board and walk through the bullet points:
 
-* Course Structure:
+#### Course Structure:
   * Arc of curriculum, syllabus
   * As we mentioned during interviews, schedule will likely change as we adapt to you
   * Self-sufficiency / Instructors planning on Fri afternoons
   * Lightning Talks
-  * Ted Talk Tuesdays
 
-* Emotional Framing:
+#### Emotional Framing:
   * Walkthrough the Emotional Cycle of Change PDF
   * This class is going to be hard.
   * Pace of class (some think fast, some think slow)
@@ -94,32 +89,31 @@ Write the following topics on the board and walk through the bullet points:
   * Collaboration. Free to fail.
   * There is no morality in working vs. non-working code.
 		
-		There is nothing "good" about working code, and there is nothing "bad" about code that is not working. Whether or not some code is working should not be a measure of how good it is. 
+>There is nothing "good" about working code, and there is nothing "bad" about code that is not working. Whether or not some code is working should not be a measure of how good it is. 
 		
-		Students tend to think this way since life has probably worked that way for them until now (when you take a test, wrong answers are bad, and correct answers are good). 
+> Students tend to think this way since life has probably worked that way for them until now (when you take a test, wrong answers are bad, and correct answers are good). 
 		
-		However, in software development, we need to encourage students to realize that quality of code stems from deeper topics of code organization, semantics, and other principles of, as we call them, good code. 
+> However, in software development, we need to encourage students to realize that quality of code stems from deeper topics of code organization, semantics, and other principles of, as we call them, good code. 
 		
-		We need to instill the idea in them that broken code may be excellently written, but broken because of a missing comma, just as code may work but be terribly organized and highly unmaintainable.
+> We need to instill the idea in them that broken code may be excellently written, but broken because of a missing comma, just as code may work but be terribly organized and highly unmaintainable.
 	
 
-* Other tips to be successful: 
+#### Other tips to be successful: 
   * Take your own notes! (We won't be providing them. Also, don't take painstaking notes on syntax!!! Take notes on concepts!!!)
   * Show up on time (Or let us know in advance)
   * Take care of yourself / sustainability
   * It's OK to pivot
-  * Take advantage office hours and Hack Hands
+  * Take advantage office hours
   * We're on the same team - we're peers, learn from each other
 
-* Assessments & Grad Requirements 
+#### Assessments & Grad Requirements 
   * Show up! (< 3 absences)
   * Submit your homework (>80%)
   * Self Assessments
   * Quizzes
   * Mid & End Course Assessments on Projects
 
-
-* Explain that Winter is coming. A commitment is necessary. The students have made the space and time necessary in their life, they can now do anything. Passion! Ideas to the world!
+> Explain that Winter is coming. A commitment is necessary. The students have made the space and time necessary in their life, they can now do anything. Passion! Ideas to the world!
 
 ## Homework
 Have the students think about the following framing exercise tonight: [framing exercise](https://github.com/marcwright/framing/blob/master/README.md)
