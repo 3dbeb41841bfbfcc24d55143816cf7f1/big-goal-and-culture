@@ -78,6 +78,8 @@ Write the following topics on the board and walk through the bullet points:
   * Lightning Talks
   * Squads
   * Office Hours
+  	* Come prepared with questions 	
+  * Download Xcode
 
 #### Emotional Framing:
   * Walkthrough the Emotional Cycle of Change PDF
