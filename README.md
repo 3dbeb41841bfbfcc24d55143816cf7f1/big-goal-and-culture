@@ -76,6 +76,8 @@ Write the following topics on the board and walk through the bullet points:
   * As we mentioned during interviews, schedule will likely change as we adapt to you
   * Self-sufficiency / Instructors planning on Fri afternoons
   * Lightning Talks
+  * Squads
+  * Office Hours
 
 #### Emotional Framing:
   * Walkthrough the Emotional Cycle of Change PDF
