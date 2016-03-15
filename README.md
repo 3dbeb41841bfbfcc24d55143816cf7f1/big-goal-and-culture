@@ -116,6 +116,6 @@ Write the following topics on the board and walk through the bullet points:
 > Explain that Winter is coming. A commitment is necessary. The students have made the space and time necessary in their life, they can now do anything. Passion! Ideas to the world!
 
 ## Homework
-Have the students think about the following framing exercise tonight: [framing exercise](https://github.com/marcwright/framing/blob/master/README.md)
+Have the students think about the following framing exercise tonight: [framing exercise](./framing_wdi.md)
 
 
