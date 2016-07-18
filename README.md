@@ -42,9 +42,34 @@ Each WDI gets to choose what they want their class culture to be like. Here are 
 
 Previous rules for reference can be found [here](samples/culture.md).
 
-## Course Talking Points (20-25 min)
+## Asking for Help (10 minutes)
 
-Write the following topics on the board and walk through the bullet points:
+What is asking for help?
+
+- This is the thing students find the hardest, and the thing that ultimately determines whether or not students will be successful in this class.
+- Without fail, the students who do not ask for help do the poorest in the class.
+- Most importantly, **knowing how to ask for help and where to look for answers** is one of the biggest skills you can gain from this class that will be applicable as you prepare to join the professional workforce.
+
+**Turn & Talk**: Everyone should take 30 seconds to think of a time when they've asked someone for help. It doesn't have to be tech-related. Then take 30 seconds to turn and share with your tablemates about those times. What were the outcomes?
+
+We have all asked for help. There's no shame in it. Feeling afraid to ask for help will be one of the biggest detriments in this class.
+
+* What makes asking for help effective?
+  - Asking a clear problem:
+    * "I don't know any of this" is *not* a clear problem.
+    * "I tried this thing and got this error" *is* a clear problem.
+  - We will ask you for help when:
+      * The question you're asking isn't clear or constructive
+      * It's obvious that you haven't made a sufficient effort to find the answer
+
+### How to Ask for Help
+
+1. First, try it yourself
+2. Then, Google it
+3. Then, ask another student
+4. Finally, ask an instructor
+
+## Course Talking Points (20-25 min)
 
 ### Course Structure:
 
