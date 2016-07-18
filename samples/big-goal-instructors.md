@@ -1,4 +1,4 @@
-#Instructor Big Goal:
+# Big Goal:
 
 **Our goal is to empower our students to pursue and excel at work in web development and related fields.**
 
