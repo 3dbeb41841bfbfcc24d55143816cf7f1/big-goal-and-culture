@@ -104,7 +104,11 @@ We have all asked for help. There's no shame in it. Feeling afraid to ask for he
   - Don't be afraid to fail
   - Learning to code is all about *experimentation*
 
-![Emotional Cycle of Change](images/2-states-of-programmer.jpg)
+---
+
+![2 States of Every Programmer](images/2-states-of-programmer.jpg)
+
+---
 
 ### Other tips to be successful:
 * Take your own notes! (We won't be providing them. Also, don't take painstaking notes on syntax!!! Take notes on concepts!!!)
