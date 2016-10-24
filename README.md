@@ -95,7 +95,7 @@ We have all asked for help. There's no shame in it. Feeling afraid to ask for he
 
 * Walkthrough the Emotional Cycle of Change PNG
 
-![Emotional Cycle of Change](emotional-cycle-of-change.png)
+![Emotional Cycle of Change](images/emotional-cycle-of-change.png)
 
 * This class is going to be hard.
 * Pace of class (some think fast, some think slow)
@@ -103,6 +103,8 @@ We have all asked for help. There's no shame in it. Feeling afraid to ask for he
 * To *succeed* you must first *fail*
   - Don't be afraid to fail
   - Learning to code is all about *experimentation*
+
+![Emotional Cycle of Change](images/2-states-of-programmer.jpg)
 
 ### Other tips to be successful:
 * Take your own notes! (We won't be providing them. Also, don't take painstaking notes on syntax!!! Take notes on concepts!!!)
